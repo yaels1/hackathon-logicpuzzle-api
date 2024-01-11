@@ -4,48 +4,42 @@
     "name": "Toad",
     "fact": "I have the best singing voice ever. Help me find princess peach",
     "hint": "is the main hero of the Mushroom Kingdom!",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/toad.jpg"
   },
   {
     "id": "2",
     "name": "Mario",
     "fact": "I am the best plumber out there!",
     "hint": "he tries to be me but is green and my brother",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/mario.jpg"
   },
   {
     "id": "3",
     "name": "Luigi",
     "fact": "I can jump higher than my brother",
     "hint": "my self-proclaimed rival who likes to wear purple",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/luigi.jpg"
   },
   {
     "id": "4",
     "name": "Waluigi",
     "fact": "I only really show up for the sake of mischeif and problems, I dont really have a story... :(",
     "hint": "my archrival's brother's archrival, so obviously we pals",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/waluigi.jpg"
   },
   {
     "id": "5",
     "name": "Wario",
     "fact": "isnt my zigzag moustache cool",
     "hint": "uses their tongue to gobble up fruit and enemies.",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/wario.jpg"
   },
   {
     "id": "6",
     "name": "Yoshi",
     "fact": "I am primarily green but can also be red, blue, pink or yellow",
     "hint": "an evil mushroom",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/yoshi.jpg"
   },
 
   {
@@ -53,8 +47,7 @@
     "name": "Goomba",
     "fact": "lots of people think im a chestnut, but I'm actually a shiitake mushroom!",
     "hint": "is a mischevious ghost. oooooo",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/goomba.jpg"
   },
 
   {
@@ -62,39 +55,34 @@
     "name": "King Boo",
     "fact": "I may be spooky, but I'm super shy.",
     "hint": "the king of the jungle! He wears a red tie which bears his initials",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/king_boo.jpg"
   },
   {
     "id": "9",
     "name": "Donkey Kong",
     "fact": "when I pound on the ground, the ground shakes!!",
     "hint": "the son of Mario's archrival",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/donkey_kong.jpg"
   },
   {
     "id": "10",
     "name": "Bowser Junior",
     "fact": "I may be small, but I can cause loads of chaos!",
     "hint": "MY DAAAAD",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/bowser_junior.jpg"
   },
   {
     "id": "11",
     "name": "Bowser",
     "fact": "I am the king of hte Koopas",
     "hint": "the only one left... guess who...",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/bowser.jpg"
   },
   {
     "id": "12",
     "name": "Princess Peach",
     "fact": "I am the beloved princess of the mushroom kingdom!",
     "hint": "Well done! You found me! slay",
-    "image": "",
-    "sound": ""
+    "image": "http://localhost:8000/images/princess_peach.jpg"
   }
 ]
