@@ -1,7 +1,6 @@
 const express = require("express");
 const router = express.Router();
 const fs = require("fs");
-const crypto = require("crypto");
 
 function readData() {
   const file = fs.readFileSync("./data/characters.json");
@@ -9,8 +8,9 @@ function readData() {
   return data;
 }
 // get all characters and all info
-router.get("/", (req, res) => {
+router.get("/", (_req, res) => {
   const data = readData();
+  console.log(data);
   res.json(data);
 });
 

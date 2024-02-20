@@ -2,7 +2,7 @@ require("dotenv").config();
 const express = require("express");
 const app = express();
 const port = process.env.PORT;
-const videocharacterRoutes = require("./routes/characters");
+const characterRoutes = require("./routes/characters");
 const cors = require("cors");
 
 app.use(cors());
